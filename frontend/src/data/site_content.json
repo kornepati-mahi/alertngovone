@@ -1,0 +1,1294 @@
+{
+  "home": {
+    "slug": "home",
+    "title": "Home",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Home"
+    ]
+  },
+  "about": {
+    "slug": "about",
+    "title": "About Us",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/WhatsApp-Image-2021-08-19-at-6.48.06-PM-1024x768.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "About Us"
+    ]
+  },
+  "area-of-operation": {
+    "slug": "area-of-operation",
+    "title": "Area of Operation",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/AREA-OF-WORK-1536x901-1.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Area of Operation"
+    ]
+  },
+  "annual-report": {
+    "slug": "annual-report",
+    "title": "Annual Report",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf"
+    ],
+    "pdfs": [
+      {
+        "url": "/uploads/ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf",
+        "name": "ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf",
+        "original_url": "https://alertngo.in/uploads/ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf"
+      }
+    ],
+    "texts": [
+      "Annual Report"
+    ]
+  },
+  "2023-2": {
+    "slug": "2023-2",
+    "title": "2023",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/all2023.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "2023"
+    ]
+  },
+  "alert-policies": {
+    "slug": "alert-policies",
+    "title": "ALERT Policies",
+    "category": "Governance & Institutional",
+    "images": [
+      "/uploads/3-6.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "ALERT Policies"
+    ]
+  },
+  "abstract-rofr": {
+    "slug": "abstract-rofr",
+    "title": "Abstract RoFR",
+    "category": "Forest Rights & LTR",
+    "images": [
+      "/uploads/RF.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Abstract RoFR"
+    ]
+  },
+  "alert": {
+    "slug": "alert",
+    "title": "Alert",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Alert"
+    ]
+  },
+  "achievements": {
+    "slug": "achievements",
+    "title": "Achievements",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Achievements"
+    ]
+  },
+  "child-interventions": {
+    "slug": "child-interventions",
+    "title": "Child Interventions",
+    "category": "Programs & Livelihood",
+    "images": [
+      "/uploads/Children-reieved-shoes-1.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Child Interventions"
+    ]
+  },
+  "award-copies": {
+    "slug": "award-copies",
+    "title": "Award Copies",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/GRIEVANCE-ALL.png"
+    ],
+    "pdfs": [
+      {
+        "url": "/uploads/AWARD-COPIES-1.pdf",
+        "name": "AWARD-COPIES-1.pdf",
+        "original_url": "https://alertngo.in/uploads/AWARD-COPIES-1.pdf"
+      }
+    ],
+    "texts": [
+      "Award Copies"
+    ]
+  },
+  "blankets-distribution-in-east-godavari": {
+    "slug": "blankets-distribution-in-east-godavari",
+    "title": "Blankets Distribution in East Godavari",
+    "category": "Disaster Relief",
+    "images": [
+      "/uploads/WhatsApp-Image-2020-10-10-at-1.48.07-PM-1-300x225-1.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Blankets Distribution in East Godavari"
+    ]
+  },
+  "abstract": {
+    "slug": "abstract",
+    "title": "ALERT R&R Grievances",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/GRIEVANCE-ALL.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "ALERT R&R Grievances"
+    ]
+  },
+  "blog": {
+    "slug": "blog",
+    "title": "Blog",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Blog"
+    ]
+  },
+  "bwg_gallery/eye-camp": {
+    "slug": "bwg_gallery/eye-camp",
+    "title": "GALLERY",
+    "category": "Community & Archive",
+    "images": [
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/wp-content/uploads/2024/10/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "ALERT Logo"
+      },
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "Alert Logo Transparent Cropped Removebg Preview 2"
+      },
+      {
+        "src": "/uploads/PHOTO-2023-02-15-19-20-55_1-2_(1).jpg",
+        "original_url": "https://alertngo.in/uploads/PHOTO-2023-02-15-19-20-55_1-2_(1).jpg",
+        "alt": "Photo 2023 02 15 19 20 55 1 2 (1)"
+      },
+      {
+        "src": "/uploads/PHOTO-2023-02-15-19-21-00.jpg",
+        "original_url": "https://alertngo.in/uploads/PHOTO-2023-02-15-19-21-00.jpg",
+        "alt": "Photo 2023 02 15 19 21 00"
+      },
+      {
+        "src": "/uploads/PHOTO-2023-02-15-19-21-00_1.jpg",
+        "original_url": "https://alertngo.in/uploads/PHOTO-2023-02-15-19-21-00_1.jpg",
+        "alt": "Photo 2023 02 15 19 21 00 1"
+      },
+      {
+        "src": "/uploads/PHOTO-2023-02-15-19-20-56_2-2.jpg",
+        "original_url": "https://alertngo.in/uploads/PHOTO-2023-02-15-19-20-56_2-2.jpg",
+        "alt": "Photo 2023 02 15 19 20 56 2 2"
+      }
+    ],
+    "pdfs": [],
+    "texts": [
+      "GALLERY"
+    ]
+  },
+  "cage-culture": {
+    "slug": "cage-culture",
+    "title": "Cage Culture",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Cage Culture"
+    ]
+  },
+  "chronological-order-of-pip-progress": {
+    "slug": "chronological-order-of-pip-progress",
+    "title": "Chronological order of PIP progress",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/submergence-area-map-1.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Chronological order of PIP progress"
+    ]
+  },
+  "cases-rr-commissioner-office": {
+    "slug": "cases-rr-commissioner-office",
+    "title": "Cases @ R&R Commissioner Office",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/RR-commissioner-office_Court-Cases.pdf",
+        "name": "RR-commissioner-office_Court-Cases.pdf",
+        "original_url": "https://alertngo.in/uploads/RR-commissioner-office_Court-Cases.pdf"
+      }
+    ],
+    "texts": [
+      "Cases @ R&R Commissioner Office"
+    ]
+  },
+  "cases": {
+    "slug": "cases",
+    "title": "COURT CASES",
+    "category": "Legal & Downloads",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "COURT CASES"
+    ]
+  },
+  "child-bare-acts": {
+    "slug": "child-bare-acts",
+    "title": "Child Bare Acts",
+    "category": "Programs & Livelihood",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Child Bare Acts"
+    ]
+  },
+  "compendium-of-judgements-rofr": {
+    "slug": "compendium-of-judgements-rofr",
+    "title": "Compendium of Judgements RoFR",
+    "category": "Forest Rights & LTR",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/Compendum-of-Judgements-on-FRA-2007-2015.pdf",
+        "name": "Compendum-of-Judgements-on-FRA-2007-2015.pdf",
+        "original_url": "https://alertngo.in/uploads/Compendum-of-Judgements-on-FRA-2007-2015.pdf"
+      }
+    ],
+    "texts": [
+      "Compendium of Judgements RoFR"
+    ]
+  },
+  "core-values": {
+    "slug": "core-values",
+    "title": "Core Values",
+    "category": "Governance & Institutional",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Core Values"
+    ]
+  },
+  "contact": {
+    "slug": "contact",
+    "title": "Contact Us",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Contact Us"
+    ]
+  },
+  "disposal-meanings": {
+    "slug": "disposal-meanings",
+    "title": "Disposal Meanings",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/LTR-DISPOSAL-REASONS.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Disposal Meanings"
+    ]
+  },
+  "downloads": {
+    "slug": "downloads",
+    "title": "Downloads",
+    "category": "Legal & Downloads",
+    "images": [
+      "/uploads/AWARD-COPIES-1.pdf"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Downloads"
+    ]
+  },
+  "faqs": {
+    "slug": "faqs",
+    "title": "FAQ's",
+    "category": "Legal & Downloads",
+    "images": [
+      "/uploads/FAQ-LARR.pdf"
+    ],
+    "pdfs": [
+      {
+        "url": "/uploads/FAQ-LARR.pdf",
+        "name": "FAQ-LARR.pdf",
+        "original_url": "https://alertngo.in/uploads/FAQ-LARR.pdf"
+      },
+      {
+        "url": "/uploads/GREIVANCE-FAQ.pdf",
+        "name": "GREIVANCE-FAQ.pdf",
+        "original_url": "https://alertngo.in/uploads/GREIVANCE-FAQ.pdf"
+      },
+      {
+        "url": "/uploads/MoTA_FAQ.pdf",
+        "name": "MoTA_FAQ.pdf",
+        "original_url": "https://alertngo.in/uploads/MoTA_FAQ.pdf"
+      },
+      {
+        "url": "/uploads/NREGA_FAQ.pdf",
+        "name": "NREGA_FAQ.pdf",
+        "original_url": "https://alertngo.in/uploads/NREGA_FAQ.pdf"
+      },
+      {
+        "url": "/uploads/MGNREGA_GUIDELINES.pdf",
+        "name": "MGNREGA_GUIDELINES.pdf",
+        "original_url": "https://alertngo.in/uploads/MGNREGA_GUIDELINES.pdf"
+      },
+      {
+        "url": "/uploads/PMKSY_FAQ.pdf",
+        "name": "PMKSY_FAQ.pdf",
+        "original_url": "https://alertngo.in/uploads/PMKSY_FAQ.pdf"
+      },
+      {
+        "url": "/uploads/FAQS-ON-NGO.pdf",
+        "name": "FAQS-ON-NGO.pdf",
+        "original_url": "https://alertngo.in/uploads/FAQS-ON-NGO.pdf"
+      },
+      {
+        "url": "/uploads/RTI-Online-FAQs.pdf",
+        "name": "RTI-Online-FAQs.pdf",
+        "original_url": "https://alertngo.in/uploads/RTI-Online-FAQs.pdf"
+      }
+    ],
+    "texts": [
+      "FAQ's"
+    ]
+  },
+  "flood-relief-measures-2019": {
+    "slug": "flood-relief-measures-2019",
+    "title": "Flood Relief Measures 2019",
+    "category": "Disaster Relief",
+    "images": [
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/wp-content/uploads/2024/10/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "ALERT Logo"
+      },
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "Alert Logo Transparent Cropped Removebg Preview 2"
+      }
+    ],
+    "pdfs": [],
+    "texts": [
+      "Flood Relief Measures 2019"
+    ]
+  },
+  "donate-now": {
+    "slug": "donate-now",
+    "title": "Donate Now",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Donate Now"
+    ]
+  },
+  "flood-relief-measures-2020": {
+    "slug": "flood-relief-measures-2020",
+    "title": "Flood Relief Measures 2020",
+    "category": "Disaster Relief",
+    "images": [
+      "/uploads/WhatsApp-Image-2020-10-10-at-1.48.07-PM-1-300x225-1.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Flood Relief Measures 2020"
+    ]
+  },
+  "dprs": {
+    "slug": "dprs",
+    "title": "DPR's",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "DPR's"
+    ]
+  },
+  "flood-relief-measures-2021-2": {
+    "slug": "flood-relief-measures-2021-2",
+    "title": "Flood Relief Measures 2021",
+    "category": "Disaster Relief",
+    "images": [
+      "/uploads/WhatsApp-Image-2021-08-23-at-11.23.52-AM-1024x768.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Flood Relief Measures 2021"
+    ]
+  },
+  "flood-relief-measures-2022": {
+    "slug": "flood-relief-measures-2022",
+    "title": "Flood Relief Measures 2022",
+    "category": "Disaster Relief",
+    "images": [
+      "/uploads/PHOTO-2022-10-20-17-25-29-2.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Flood Relief Measures 2022"
+    ]
+  },
+  "flood-relief-measures-2021": {
+    "slug": "flood-relief-measures-2021",
+    "title": "Flood relief Measures 2021",
+    "category": "Disaster Relief",
+    "images": [
+      "/uploads/WhatsApp-Image-2021-08-23-at-11.23.52-AM-1024x768.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Flood relief Measures 2021"
+    ]
+  },
+  "gos": {
+    "slug": "gos",
+    "title": "GO's",
+    "category": "Legal & Downloads",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "GO's"
+    ]
+  },
+  "gallery-9": {
+    "slug": "gallery-9",
+    "title": "GALLERY",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/PHOTO-2023-02-15-19-20-55_1.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "GALLERY"
+    ]
+  },
+  "governing-body": {
+    "slug": "governing-body",
+    "title": "Governing Body",
+    "category": "Governance & Institutional",
+    "images": [
+      "/uploads/Divakar-Babu.jpg",
+      "/uploads/Ramakrishna.jpg",
+      "/uploads/jayaraj-sir.jpg",
+      "/uploads/Sirisha-1.jpg",
+      "/uploads/Jillela-Prasad-1-3.png",
+      "/uploads/Nancharamma-1-1.png",
+      "/uploads/silpa-1.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Governing Body"
+    ]
+  },
+  "grievances": {
+    "slug": "grievances",
+    "title": "GRIEVANCES",
+    "category": "Community & Archive",
+    "images": [
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/wp-content/uploads/2024/10/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "ALERT Logo"
+      },
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "Alert Logo Transparent Cropped Removebg Preview 2"
+      }
+    ],
+    "pdfs": [],
+    "texts": [
+      "GRIEVANCES"
+    ]
+  },
+  "hello-world": {
+    "slug": "hello-world",
+    "title": "ALERT",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "ALERT"
+    ]
+  },
+  "groceries-distribution-in-west-godavari": {
+    "slug": "groceries-distribution-in-west-godavari",
+    "title": "Groceries Distribution in West Godavari",
+    "category": "Disaster Relief",
+    "images": [
+      "/uploads/WhatsApp-Image-2020-07-29-at-10.42.06-AM-768x576-1.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Groceries Distribution in West Godavari"
+    ]
+  },
+  "high-court-cases-eg": {
+    "slug": "high-court-cases-eg",
+    "title": "High Court Cases EG",
+    "category": "Legal & Downloads",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/High-court-Cases_EG-1.pdf",
+        "name": "High-court-Cases_EG-1.pdf",
+        "original_url": "https://alertngo.in/uploads/High-court-Cases_EG-1.pdf"
+      }
+    ],
+    "texts": [
+      "High Court Cases EG"
+    ]
+  },
+  "high-court-cases-wg": {
+    "slug": "high-court-cases-wg",
+    "title": "High Court Cases WG",
+    "category": "Legal & Downloads",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/Pending-High-court-cases_WG.pdf",
+        "name": "Pending-High-court-cases_WG.pdf",
+        "original_url": "https://alertngo.in/uploads/Pending-High-court-cases_WG.pdf"
+      }
+    ],
+    "texts": [
+      "High Court Cases WG"
+    ]
+  },
+  "housing-colonies-construction-status": {
+    "slug": "housing-colonies-construction-status",
+    "title": "Housing colonies Construction status",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/PL.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Housing colonies Construction status"
+    ]
+  },
+  "images": {
+    "slug": "images",
+    "title": "Images",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Images"
+    ]
+  },
+  "indigenous-people": {
+    "slug": "indigenous-people",
+    "title": "Indigenous People",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Indigenous People"
+    ]
+  },
+  "issues-of-pip": {
+    "slug": "issues-of-pip",
+    "title": "Issues in implementing Polavaram Project",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/Seperated-Polavaram-issues-4.pdf"
+    ],
+    "pdfs": [
+      {
+        "url": "/uploads/Seperated-Polavaram-issues-4.pdf",
+        "name": "Seperated-Polavaram-issues-4.pdf",
+        "original_url": "https://alertngo.in/uploads/Seperated-Polavaram-issues-4.pdf"
+      }
+    ],
+    "texts": [
+      "Issues in implementing Polavaram Project"
+    ]
+  },
+  "la-act-2013-3-schdules": {
+    "slug": "la-act-2013-3-schdules",
+    "title": "LA ACT 2013 3 schedules",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/schedule-1.pdf",
+        "name": "schedule-1.pdf",
+        "original_url": "https://alertngo.in/uploads/schedule-1.pdf"
+      },
+      {
+        "url": "/uploads/schedule-2.pdf",
+        "name": "schedule-2.pdf",
+        "original_url": "https://alertngo.in/uploads/schedule-2.pdf"
+      },
+      {
+        "url": "/uploads/schedules-3-1.pdf",
+        "name": "schedules-3-1.pdf",
+        "original_url": "https://alertngo.in/uploads/schedules-3-1.pdf"
+      }
+    ],
+    "texts": [
+      "LA ACT 2013 3 schedules"
+    ]
+  },
+  "la-flow-chart": {
+    "slug": "la-flow-chart",
+    "title": "LA Flow chart",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/LA-CHART.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "LA Flow chart"
+    ]
+  },
+  "la-rr": {
+    "slug": "la-rr",
+    "title": "LA & RR",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "LA & RR"
+    ]
+  },
+  "la-rr-status": {
+    "slug": "la-rr-status",
+    "title": "LA & RR Status",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/status-rr-la.png",
+      "/uploads/phases.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "LA & RR Status"
+    ]
+  },
+  "land-acquisition-la": {
+    "slug": "land-acquisition-la",
+    "title": "Land Acquisition (LA)",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Land Acquisition (LA)"
+    ]
+  },
+  "larr-faqs": {
+    "slug": "larr-faqs",
+    "title": "LARR FAQs",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/FAQ-LARR.pdf",
+        "name": "FAQ-LARR.pdf",
+        "original_url": "https://alertngo.in/uploads/FAQ-LARR.pdf"
+      },
+      {
+        "url": "/uploads/FAQ-LARR.pdf",
+        "name": "FAQ-LARR.pdf",
+        "original_url": "https://alertngo.in/uploads/FAQ-LARR.pdf"
+      }
+    ],
+    "texts": [
+      "LARR FAQs"
+    ]
+  },
+  "legal-compliances": {
+    "slug": "legal-compliances",
+    "title": "Cases @ LA & RR Court",
+    "category": "Legal & Downloads",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/RTI-Data-LA-RR-Court.pdf",
+        "name": "RTI-Data-LA-RR-Court.pdf",
+        "original_url": "https://alertngo.in/uploads/RTI-Data-LA-RR-Court.pdf"
+      }
+    ],
+    "texts": [
+      "Cases @ LA & RR Court"
+    ]
+  },
+  "livehood-support": {
+    "slug": "livehood-support",
+    "title": "Livehood Support",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Livehood Support"
+    ]
+  },
+  "livelihood-support": {
+    "slug": "livelihood-support",
+    "title": "Livelihood Support",
+    "category": "Programs & Livelihood",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Livelihood Support"
+    ]
+  },
+  "ltr-disposal-meanings": {
+    "slug": "ltr-disposal-meanings",
+    "title": "LTR Disposal Meanings",
+    "category": "Forest Rights & LTR",
+    "images": [
+      "/uploads/LTR-DISPOSAL-REASONS.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "LTR Disposal Meanings"
+    ]
+  },
+  "legislative-acts-2": {
+    "slug": "legislative-acts-2",
+    "title": "Legislative Acts",
+    "category": "Legal & Downloads",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Legislative Acts"
+    ]
+  },
+  "ltr-eluru": {
+    "slug": "ltr-eluru",
+    "title": "LTR ELURU",
+    "category": "Forest Rights & LTR",
+    "images": [
+      "/uploads/ltr-disposals-eluru.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "LTR ELURU"
+    ]
+  },
+  "ltr": {
+    "slug": "ltr",
+    "title": "LTR",
+    "category": "Forest Rights & LTR",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "LTR"
+    ]
+  },
+  "organizational-profile": {
+    "slug": "organizational-profile",
+    "title": "Organizational Profile",
+    "category": "Governance & Institutional",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "/uploads/Organizational-Profile-of-ALERT.pdf",
+        "name": "Organizational-Profile-of-ALERT.pdf",
+        "original_url": "https://alertngo.in/uploads/Organizational-Profile-of-ALERT.pdf"
+      }
+    ],
+    "texts": [
+      "Organizational Profile"
+    ]
+  },
+  "organogram": {
+    "slug": "organogram",
+    "title": "Organogram",
+    "category": "Governance & Institutional",
+    "images": [
+      "/uploads/Alert-Organogram.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Organogram"
+    ]
+  },
+  "others": {
+    "slug": "others",
+    "title": "Others",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Others"
+    ]
+  },
+  "polavaram-project-authority-minutes": {
+    "slug": "polavaram-project-authority-minutes",
+    "title": "Polavaram Project Authority Minutes",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Polavaram Project Authority Minutes"
+    ]
+  },
+  "news-views": {
+    "slug": "news-views",
+    "title": "NEWS & VIEWS",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/all2023.jpeg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "NEWS & VIEWS"
+    ]
+  },
+  "portfolio-2": {
+    "slug": "portfolio-2",
+    "title": "Portfolio",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/PORTFOLIO-2.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Portfolio"
+    ]
+  },
+  "pond-culture-2": {
+    "slug": "pond-culture-2",
+    "title": "Pond Culture",
+    "category": "Programs & Livelihood",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Pond Culture"
+    ]
+  },
+  "portfolio-3": {
+    "slug": "portfolio-3",
+    "title": "PORTFOLIO",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/PORTFOLIO-2.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "PORTFOLIO"
+    ]
+  },
+  "rr-colony-layouts": {
+    "slug": "rr-colony-layouts",
+    "title": "R&R Colony Layouts",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [
+      {
+        "url": "https://drive.google.com/file/d/18dfD0fMdoH6hFafP0EG6QgQOUzQjqY-V/view?usp=sharing",
+        "name": "Cheeduru Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/18dfD0fMdoH6hFafP0EG6QgQOUzQjqY-V/view?usp=sharing"
+      },
+      {
+        "url": "https://drive.google.com/file/d/15nQ8lkMlKwG08dbtjhhs9MgQvyvNv7sj/view?usp=drive_link",
+        "name": "Buttayigudem -1.pdf",
+        "original_url": "https://drive.google.com/file/d/15nQ8lkMlKwG08dbtjhhs9MgQvyvNv7sj/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1UePrh_cvoab_339JTpM7ih9d0gZdydRm/view?usp=drive_link",
+        "name": "P.Narayanapuram-1.pdf",
+        "original_url": "https://drive.google.com/file/d/1UePrh_cvoab_339JTpM7ih9d0gZdydRm/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/12av2qaF6xdlWbk6Joma7SDRTa21JdjG9/view?usp=sharing",
+        "name": "Saripalli Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/12av2qaF6xdlWbk6Joma7SDRTa21JdjG9/view?usp=sharing"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1hApr9bDvix7D5NwbpdtvrDPx01O98EgU/view?usp=drive_link",
+        "name": "Buttayigudem-2.pdf",
+        "original_url": "https://drive.google.com/file/d/1hApr9bDvix7D5NwbpdtvrDPx01O98EgU/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/17ZlTJQ83Mmv1nlzNQA8KHBU7-UvflaRQ/view?usp=drive_link",
+        "name": "P.Narayanapuram-2.pdf",
+        "original_url": "https://drive.google.com/file/d/17ZlTJQ83Mmv1nlzNQA8KHBU7-UvflaRQ/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1a62_mbe8V97pLsQ9iMQ4vZi4NU0LaXL7/view?usp=sharing",
+        "name": "Kothamamidigondi Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/1a62_mbe8V97pLsQ9iMQ4vZi4NU0LaXL7/view?usp=sharing"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1zlkQ5dwd46jMMBTx1Bq09lXEA2gwjEw7/view?usp=drive_link",
+        "name": "Buttayigudem-4.pdf",
+        "original_url": "https://drive.google.com/file/d/1zlkQ5dwd46jMMBTx1Bq09lXEA2gwjEw7/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1f2F9oCy4gYn8UwOd0HGx1O5-xD501UAR/view?usp=drive_link",
+        "name": "Puchikapadu.pdf",
+        "original_url": "https://drive.google.com/file/d/1f2F9oCy4gYn8UwOd0HGx1O5-xD501UAR/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1mo4RBEXxoFvrUBar3e9-fmTjymFcB7as/view?usp=drive_link",
+        "name": "Dharbhagudem Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/1mo4RBEXxoFvrUBar3e9-fmTjymFcB7as/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/16RtbSHbrIhzVpRshJCfngnKQRpXA5zz-/view?usp=drive_link",
+        "name": "Damaracharla.pdf",
+        "original_url": "https://drive.google.com/file/d/16RtbSHbrIhzVpRshJCfngnKQRpXA5zz-/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1RESHViT98WZ4y3METcolAqN9-Bm1urTT/view?usp=drive_link",
+        "name": "Ramannagudem.pdf",
+        "original_url": "https://drive.google.com/file/d/1RESHViT98WZ4y3METcolAqN9-Bm1urTT/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1BnFkrP-kPBMjSIn4iXwd75dP6lmjNXTb/view?usp=drive_link",
+        "name": "Tekuru Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/1BnFkrP-kPBMjSIn4iXwd75dP6lmjNXTb/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1KplcmeT4EDN5lA4OWJS8a9zDajSefMvE/view?usp=drive_link",
+        "name": "Kamayyapalem.pdf",
+        "original_url": "https://drive.google.com/file/d/1KplcmeT4EDN5lA4OWJS8a9zDajSefMvE/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1hOjz6x_vM973c-XWjXS_2UxyPlvC6Lu2/view?usp=drive_link",
+        "name": "Tutigunta.pdf",
+        "original_url": "https://drive.google.com/file/d/1hOjz6x_vM973c-XWjXS_2UxyPlvC6Lu2/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1p7NkKTPtNbzPhqaBJ2EJTs1PNKSQZj72/view?usp=drive_link",
+        "name": "Ganapavaram Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/1p7NkKTPtNbzPhqaBJ2EJTs1PNKSQZj72/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1CV9e_oytAHZHdaJdiQ5tXdk5OVqbwQiG/view?usp=drive_link",
+        "name": "Kotturu.pdf",
+        "original_url": "https://drive.google.com/file/d/1CV9e_oytAHZHdaJdiQ5tXdk5OVqbwQiG/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/13eIu4UmheLQtRaGc7jD-0RSuxhHVocUp/view?usp=drive_link",
+        "name": "LND Peta Colony.pdf",
+        "original_url": "https://drive.google.com/file/d/13eIu4UmheLQtRaGc7jD-0RSuxhHVocUp/view?usp=drive_link"
+      },
+      {
+        "url": "https://drive.google.com/file/d/1Y3fqBS2fFIA5l83iXo61wkbRzFmnv0Au/view?usp=drive_link",
+        "name": "Kivvaka.pdf",
+        "original_url": "https://drive.google.com/file/d/1Y3fqBS2fFIA5l83iXo61wkbRzFmnv0Au/view?usp=drive_link"
+      }
+    ],
+    "texts": [
+      "R&R Colony Layouts"
+    ]
+  },
+  "quick-links": {
+    "slug": "quick-links",
+    "title": "Quick LInks",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Quick LInks"
+    ]
+  },
+  "rr-gos": {
+    "slug": "rr-gos",
+    "title": "R&R G.Os",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/RR-GR-1.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "R&R G.Os"
+    ]
+  },
+  "reasons-for-rejections": {
+    "slug": "reasons-for-rejections",
+    "title": "Reasons for Rejections",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/reasons-for-rejection.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Reasons for Rejections"
+    ]
+  },
+  "pond-culture": {
+    "slug": "pond-culture",
+    "title": "Pond Culture",
+    "category": "Programs & Livelihood",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Pond Culture"
+    ]
+  },
+  "review-meeting-presentations-on-pip": {
+    "slug": "review-meeting-presentations-on-pip",
+    "title": "Review meeting presentations on PIP",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Review meeting presentations on PIP"
+    ]
+  },
+  "rofr-g-os": {
+    "slug": "rofr-g-os",
+    "title": "RoFR Rules-G.Os-Guidelines",
+    "category": "Forest Rights & LTR",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "RoFR Rules-G.Os-Guidelines"
+    ]
+  },
+  "rofr": {
+    "slug": "rofr",
+    "title": "RoFR",
+    "category": "Forest Rights & LTR",
+    "images": [
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/wp-content/uploads/2024/10/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "ALERT Logo"
+      },
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "Alert Logo Transparent Cropped Removebg Preview 2"
+      }
+    ],
+    "pdfs": [],
+    "texts": [
+      "RoFR"
+    ]
+  },
+  "reports": {
+    "slug": "reports",
+    "title": "Reports",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Reports"
+    ]
+  },
+  "rr-g-os": {
+    "slug": "rr-g-os",
+    "title": "RR G.Os'",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/RR-GR-1.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "RR G.Os'"
+    ]
+  },
+  "rr-grievance-full-forms": {
+    "slug": "rr-grievance-full-forms",
+    "title": "R&R Grievance Full forms",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "R&R Grievance Full forms"
+    ]
+  },
+  "rr-grievances": {
+    "slug": "rr-grievances",
+    "title": "Land Rights Grievance",
+    "category": "Polavaram LA & R&R",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Land Rights Grievance"
+    ]
+  },
+  "rr-package": {
+    "slug": "rr-package",
+    "title": "RR Package",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/larr2013.png",
+      "/uploads/10-Laksh-G.O.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "RR Package"
+    ]
+  },
+  "services": {
+    "slug": "services",
+    "title": "Services",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Services"
+    ]
+  },
+  "slmc-meetings": {
+    "slug": "slmc-meetings",
+    "title": "SLMC Meetings",
+    "category": "Governance & Institutional",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "SLMC Meetings"
+    ]
+  },
+  "solar-poles-erection": {
+    "slug": "solar-poles-erection",
+    "title": "Solar poles Erection",
+    "category": "Programs & Livelihood",
+    "images": [
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/wp-content/uploads/2024/10/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "ALERT Logo"
+      },
+      {
+        "src": "/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "original_url": "https://alertngo.in/uploads/alert-logo-transparent-cropped-removebg-preview-2.png",
+        "alt": "Alert Logo Transparent Cropped Removebg Preview 2"
+      }
+    ],
+    "pdfs": [],
+    "texts": [
+      "Solar poles Erection"
+    ]
+  },
+  "strengthening-of-cbos": {
+    "slug": "strengthening-of-cbos",
+    "title": "strengthening of CBO's",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "strengthening of CBO's"
+    ]
+  },
+  "submergence-area-map": {
+    "slug": "submergence-area-map",
+    "title": "Submergence Area Map",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/submergence-area-map-1.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Submergence Area Map"
+    ]
+  },
+  "submergence-villages-abstract": {
+    "slug": "submergence-villages-abstract",
+    "title": "Submergence Villages Abstract",
+    "category": "Polavaram LA & R&R",
+    "images": [
+      "/uploads/371-ABSTRACT.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Submergence Villages Abstract"
+    ]
+  },
+  "vision-mission-2": {
+    "slug": "vision-mission-2",
+    "title": "Vision & Mission",
+    "category": "Governance & Institutional",
+    "images": [
+      "/uploads/cropped-12.jpg",
+      "/uploads/cropped-4.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Vision & Mission"
+    ]
+  },
+  "types-of-grievances": {
+    "slug": "types-of-grievances",
+    "title": "Types of Grievances",
+    "category": "Community & Archive",
+    "images": [
+      "/uploads/grievance-types.png"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Types of Grievances"
+    ]
+  },
+  "youth-skill-development": {
+    "slug": "youth-skill-development",
+    "title": "Youth Skill Development",
+    "category": "Programs & Livelihood",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Youth Skill Development"
+    ]
+  },
+  "videos": {
+    "slug": "videos",
+    "title": "Videos",
+    "category": "Community & Archive",
+    "images": [],
+    "pdfs": [],
+    "texts": [
+      "Videos"
+    ]
+  },
+  "vision-mission": {
+    "slug": "vision-mission",
+    "title": "Vision & Mission",
+    "category": "Governance & Institutional",
+    "images": [
+      "/uploads/cropped-12.jpg"
+    ],
+    "pdfs": [],
+    "texts": [
+      "Vision & Mission"
+    ]
+  }
+}

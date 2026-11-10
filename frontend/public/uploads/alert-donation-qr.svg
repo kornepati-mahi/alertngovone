@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" width="280" height="280">
+  <rect width="280" height="280" fill="#ffffff" rx="16"/>
+  <!-- Corner Position Boxes -->
+  <!-- Top Left -->
+  <rect x="24" y="24" width="60" height="60" rx="8" fill="#003190"/>
+  <rect x="34" y="34" width="40" height="40" rx="4" fill="#ffffff"/>
+  <rect x="44" y="44" width="20" height="20" rx="2" fill="#D2190C"/>
+
+  <!-- Top Right -->
+  <rect x="196" y="24" width="60" height="60" rx="8" fill="#003190"/>
+  <rect x="206" y="34" width="40" height="40" rx="4" fill="#ffffff"/>
+  <rect x="216" y="44" width="20" height="20" rx="2" fill="#D2190C"/>
+
+  <!-- Bottom Left -->
+  <rect x="24" y="196" width="60" height="60" rx="8" fill="#003190"/>
+  <rect x="34" y="206" width="40" height="40" rx="4" fill="#ffffff"/>
+  <rect x="44" y="216" width="20" height="20" rx="2" fill="#D2190C"/>
+
+  <!-- Data Matrix Patterns -->
+  <g fill="#1e293b">
+    <!-- Row patterns -->
+    <rect x="100" y="28" width="12" height="12" rx="2"/>
+    <rect x="120" y="28" width="12" height="12" rx="2"/>
+    <rect x="148" y="28" width="12" height="12" rx="2"/>
+    <rect x="168" y="28" width="12" height="12" rx="2"/>
+
+    <rect x="100" y="48" width="24" height="12" rx="2"/>
+    <rect x="136" y="48" width="12" height="24" rx="2"/>
+    <rect x="160" y="48" width="20" height="12" rx="2"/>
+
+    <rect x="108" y="72" width="16" height="12" rx="2"/>
+    <rect x="156" y="72" width="16" height="12" rx="2"/>
+
+    <!-- Middle section -->
+    <rect x="28" y="100" width="12" height="24" rx="2"/>
+    <rect x="52" y="100" width="20" height="12" rx="2"/>
+    <rect x="80" y="100" width="12" height="12" rx="2"/>
+    <rect x="104" y="100" width="20" height="12" rx="2"/>
+    <rect x="136" y="96" width="12" height="16" rx="2"/>
+    <rect x="160" y="100" width="24" height="12" rx="2"/>
+    <rect x="196" y="100" width="12" height="24" rx="2"/>
+    <rect x="220" y="100" width="20" height="12" rx="2"/>
+    <rect x="248" y="100" width="12" height="12" rx="2"/>
+
+    <rect x="36" y="132" width="24" height="12" rx="2"/>
+    <rect x="72" y="124" width="12" height="24" rx="2"/>
+    <rect x="96" y="132" width="16" height="12" rx="2"/>
+    <rect x="124" y="124" width="12" height="24" rx="2"/>
+    <rect x="148" y="132" width="20" height="12" rx="2"/>
+    <rect x="180" y="124" width="12" height="24" rx="2"/>
+    <rect x="204" y="132" width="24" height="12" rx="2"/>
+    <rect x="236" y="124" width="12" height="24" rx="2"/>
+
+    <rect x="28" y="160" width="16" height="12" rx="2"/>
+    <rect x="56" y="160" width="12" height="20" rx="2"/>
+    <rect x="80" y="160" width="24" height="12" rx="2"/>
+    <rect x="116" y="160" width="12" height="12" rx="2"/>
+    <rect x="140" y="160" width="20" height="12" rx="2"/>
+    <rect x="172" y="160" width="16" height="12" rx="2"/>
+    <rect x="200" y="160" width="24" height="12" rx="2"/>
+    <rect x="236" y="160" width="16" height="12" rx="2"/>
+
+    <!-- Bottom section -->
+    <rect x="100" y="196" width="12" height="24" rx="2"/>
+    <rect x="124" y="196" width="24" height="12" rx="2"/>
+    <rect x="160" y="196" width="12" height="12" rx="2"/>
+    <rect x="184" y="196" width="20" height="12" rx="2"/>
+    <rect x="216" y="196" width="12" height="24" rx="2"/>
+    <rect x="240" y="196" width="16" height="12" rx="2"/>
+
+    <rect x="108" y="232" width="20" height="12" rx="2"/>
+    <rect x="140" y="220" width="12" height="24" rx="2"/>
+    <rect x="164" y="232" width="16" height="12" rx="2"/>
+    <rect x="192" y="232" width="24" height="12" rx="2"/>
+    <rect x="228" y="232" width="12" height="16" rx="2"/>
+  </g>
+
+  <!-- Center Badge / Logo Placeholder -->
+  <rect x="110" y="110" width="60" height="60" rx="12" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="140" y="145" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="16" fill="#D2190C" text-anchor="middle">ALERT</text>
+  <text x="140" y="158" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="8" fill="#003190" text-anchor="middle">UPI PAY</text>
+</svg>
+

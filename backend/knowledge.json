@@ -1,0 +1,1624 @@
+{
+  "meta": {
+    "organisation": {
+      "name": "ALERT — Association for Land Ecosystem Rights & Tribal Heritage",
+      "short_name": "ALERT",
+      "founded": "2004",
+      "registration": "Registered Society, Registration No. 307/2004 under the Societies Registration Act",
+      "tax": "Section 12A and Section 80G registered (80G receipts issued for donations)",
+      "fcra": "FCRA registered for receiving foreign contributions",
+      "headquarters": "Door No. 40-9/1-16, Sai Nagar, Near Benz Circle, Vijayawada - 520010, Andhra Pradesh, India",
+      "phone": "+91 866 2482345",
+      "whatsapp": "+91 94401 82940",
+      "email_general": "contact@alertngo.in",
+      "email_director": "director@alertngo.in",
+      "email_alt": "alertap.in@gmail.com",
+      "website": "https://alertngo.in",
+      "founder": "Y. L. J. B. Jayaraj (Founder Director)",
+      "region": "Fifth Schedule / tribal tracts of Andhra Pradesh — Alluri Sitharama Raju and Parvathipuram Manyam districts, Rampachodavaram and Chinturu ITDAs, K.R. Puram ITDA belt, and the Krishna coastal belt",
+      "mission": "Rights-based development for Adivasi and marginalized coastal communities: land and forest rights, rehabilitation entitlements, self-governance, livelihoods and child rights."
+    },
+    "site_base_paths": [
+      "/",
+      "/about",
+      "/programs",
+      "/stories",
+      "/la-rr",
+      "/la-rr#overview",
+      "/la-rr#land_acquisition",
+      "/la-rr#rr_package",
+      "/la-rr#court_cases",
+      "/la-rr#submergence",
+      "/la-rr#rofr_ltr",
+      "/la-rr#archive",
+      "/all-pages?category=Polavaram%20LA%20%26%20R%26R",
+      "/downloads",
+      "/news",
+      "/gallery",
+      "/careers",
+      "/partner",
+      "/donate",
+      "/grievances",
+      "/faqs",
+      "/contact"
+    ],
+    "generated_from": [
+      "frontend/src/data/all_site_pages.json",
+      "frontend/src/api/client.js",
+      "frontend/src/pages/Programs.jsx",
+      "frontend/src/pages/PolavaramLaRr.jsx",
+      "curated ALERT identifiers"
+    ],
+    "generated_at": "2026-11-02T09:58:16.444Z",
+    "chunk_count": 180
+  },
+  "sections": [
+    {
+      "title": "Section 01 — Polavaram Project Overview",
+      "id": "overview",
+      "blurb": "The Polavaram (Dr. Narula Appa Rao) multipurpose project on the Godavari: extent, purpose and the communities it affects."
+    },
+    {
+      "title": "Section 02 — Land Acquisition Act 2013",
+      "id": "land_acquisition",
+      "blurb": "RFCTLARR Act 2013 entitlements — notification, survey, social impact assessment, consent, compensation and rehabilitation duties."
+    },
+    {
+      "title": "Section 03 — R&R Package & Colony Housing",
+      "id": "rr_package",
+      "blurb": "House sites, colony amenities, land-for-land, adult youth packages and the entitlements ALERT tracks for displaced families."
+    },
+    {
+      "title": "Section 04 — Court Cases & Legal Cell",
+      "id": "court_cases",
+      "blurb": "High Court writs, interim directions and the legal cell supporting project affected families."
+    },
+    {
+      "title": "Section 05 — Submergence Habitations & Maps",
+      "id": "submergence",
+      "blurb": "Submergence-area villages and habitations with maps and tabulated field data."
+    },
+    {
+      "title": "Section 06 — RoFR & LTR Disposals",
+      "id": "rofr_ltr",
+      "blurb": "Forest Rights Act and Land Transfer Regulation disposals and restitutions."
+    },
+    {
+      "title": "Section 07 — Polavaram Document Archive",
+      "id": "archive",
+      "blurb": "Every catalogued Polavaram page grouped by document type, with the statutory and reference PDF shelf. Full listing: /all-pages?category=Polavaram%20LA%20%26%20R%26R"
+    }
+  ],
+  "routes": [
+    {
+      "path": "/",
+      "label": "Home — hero, impact figures and programme snapshot"
+    },
+    {
+      "path": "/about",
+      "label": "About ALERT — single scrolling page: who we are, approach, reach"
+    },
+    {
+      "path": "/programs",
+      "label": "Our Work — every programme with details, filterable by category"
+    },
+    {
+      "path": "/stories",
+      "label": "Stories — field stories from the teams"
+    },
+    {
+      "path": "/la-rr",
+      "label": "Land & Rights (Polavaram) — Sections 01-07: project overview, Land Acquisition Act 2013, R&R package, court cases, submergence habitations, RoFR & LTR, document archive"
+    },
+    {
+      "path": "/la-rr#overview",
+      "label": "Section 01 Polavaram Project Overview"
+    },
+    {
+      "path": "/la-rr#land_acquisition",
+      "label": "Section 02 Land Acquisition Act 2013"
+    },
+    {
+      "path": "/la-rr#rr_package",
+      "label": "Section 03 R&R Package & Colony Housing"
+    },
+    {
+      "path": "/la-rr#court_cases",
+      "label": "Section 04 Court Cases & Legal Cell"
+    },
+    {
+      "path": "/la-rr#submergence",
+      "label": "Section 05 Submergence Habitations & Maps"
+    },
+    {
+      "path": "/la-rr#rofr_ltr",
+      "label": "Section 06 RoFR & LTR Disposals"
+    },
+    {
+      "path": "/la-rr#archive",
+      "label": "Section 07 Polavaram Document Archive — catalogued pages and the statutory PDF shelf"
+    },
+    {
+      "path": "/all-pages?category=Polavaram%20LA%20%26%20R%26R",
+      "label": "Full listing of every Polavaram LA & R&R page in the document archive"
+    },
+    {
+      "path": "/downloads",
+      "label": "Downloads — bare acts, court records, FAQs and reports"
+    },
+    {
+      "path": "/news",
+      "label": "News From The Field"
+    },
+    {
+      "path": "/gallery",
+      "label": "Gallery — photographs and field videos"
+    },
+    {
+      "path": "/careers",
+      "label": "Careers & internships — openings and how to apply"
+    },
+    {
+      "path": "/partner",
+      "label": "Partner With Us — CSR, grants, foundation and in-kind partnerships"
+    },
+    {
+      "path": "/donate",
+      "label": "Donate — 80G supported giving"
+    },
+    {
+      "path": "/grievances",
+      "label": "Grievance Redressal"
+    },
+    {
+      "path": "/faqs",
+      "label": "Frequently Asked Questions"
+    },
+    {
+      "path": "/contact",
+      "label": "Contact — head office, phone, email and enquiry form"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "program:RoFR & Tribal Land Advocacy",
+      "kind": "programme",
+      "title": "RoFR & Tribal Land Advocacy",
+      "category": "Forest Rights",
+      "text": "Securing individual (IFR) and community forest rights (CFR) for Adivasi families under the Forest Rights Act 2006, protecting over 15,000+ acres of ancestral forests. Components: IFR & CFR Claims Documentation, Gram Sabha Resolution Filing, GPS Boundary Demarcation, Title Deed (Patta) Distribution Support.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Community Forest Resource (CFR) Mapping",
+      "kind": "programme",
+      "title": "Community Forest Resource (CFR) Mapping",
+      "category": "Forest Rights",
+      "text": "Gram Sabha resource committees in the Rampachodavaram and Chinturu ITDA tracts map and document community forest use, from shifting cultivation plots to bamboo and minor forest produce collection grounds. Components: Village Resource Mapping, NTFP & Bamboo Harvest Records, Sacred Grove (Punya Vanalu) Protection, CFR Claim Drafting Support.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Land Transfer Regulation 1 of 1970 Restitution",
+      "kind": "programme",
+      "title": "Land Transfer Regulation 1 of 1970 Restitution",
+      "category": "Forest Rights",
+      "text": "Recovery of tribal land illegally alienated to non-tribals in the K.R. Puram ITDA belt, through revenue petitions, mutation follow-up and litigation support for dispossessed families. Components: Alienation Case Survey, Revenue & Mutation Petitions, Patta Restoration Follow-Up, Victim Family Legal Aid.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Forest Rights Act Literacy Camps",
+      "kind": "programme",
+      "title": "Forest Rights Act Literacy Camps",
+      "category": "Forest Rights",
+      "text": "Hamlet-level legal literacy sessions that explain the IFR and CFR claim process, Forest Rights Committee formation, and the evidence required before the Sub-Divisional Level Committee. Components: Bare Act Village Readings, Claim Helpdesk Assistance, Forest Rights Committee Formation, SDLC & DLC Hearing Support.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Self-Governance & PESA Act 1996",
+      "kind": "programme",
+      "title": "Self-Governance & PESA Act 1996",
+      "category": "Governance",
+      "text": "Mobilizing Adivasi hamlets to exercise sovereign powers vested in the Gram Sabha under PESA, curbing illegal land alienation and defending customary heritage. Components: Gram Sabha Capacity Training, PESA Rules Enforcement, Dispute Resolution Through Tribal Elders, Natural Resource Governance.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Gram Sabha Panchayat & Planning Training",
+      "kind": "programme",
+      "title": "Gram Sabha Panchayat & Planning Training",
+      "category": "Governance",
+      "text": "Training elected Gram Sabha Panchayats to prepare village development plans, assert minor-water-forest and land entitlement powers, and hold statutory meetings in the mother tongue. Components: Annual Village Planning, PESA Powers Orientation, Minutes & Record Keeping, Women Councillor Mentoring.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Elder Council Dispute Resolution",
+      "kind": "programme",
+      "title": "Elder Council Dispute Resolution",
+      "category": "Governance",
+      "text": "Customary justice forums convened by tribal elders and Gram Sabhas settle land, family and resource disputes locally, reducing case pendency and court costs for Adivasi families. Components: Elder Council Convening, Customary Law Documentation, Land Dispute Mediation, Referral To Legal Aid Cell.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:RTI & Departmental Convergence Monitoring",
+      "kind": "programme",
+      "title": "RTI & Departmental Convergence Monitoring",
+      "category": "Governance",
+      "text": "Using the Right to Information Act and ITDA review meetings to track sanctioned works, welfare scheme entitlements and service delivery in agency mandals. Components: RTI Representations, ITDA Convergence Reviews, Scheme Utilisation Audits, Grievance Escalation Tracking.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Land Acquisition (LA) & R&R Advocacy",
+      "kind": "programme",
+      "title": "Land Acquisition (LA) & R&R Advocacy",
+      "category": "Polavaram PIP",
+      "text": "Defending rights of 1,05,000+ Project Displaced Families (PDFs) facing displacement from the Polavaram National Project under the RFCTLARR Act 2013. Components: Fair Market Land Valuation, Adult Youth (18+) Package Claims, Colony Amenities Monitoring, High Court Litigation Support.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:R&R Social Audit of Submerged Villages",
+      "kind": "programme",
+      "title": "R&R Social Audit of Submerged Villages",
+      "category": "Polavaram PIP",
+      "text": "Independent community social audits across the 371 submergence-area villages of the tri-ITDA belt, verifying beneficiary lists, compensation records and resettlement entitlements. Components: Household Survey Verification, Beneficiary List Audits, Village-Level Social Audit Meetings, Audit Findings Submissions.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:RFCTLARR Act 2013 Entitlement Tracking",
+      "kind": "programme",
+      "title": "RFCTLARR Act 2013 Entitlement Tracking",
+      "category": "Polavaram PIP",
+      "text": "Section-by-section tracking of land-for-land and house-for-house entitlements, homestead plots, amenities and rehabilitation grants for project-affected families. Components: Entitlement Register Maintenance, Land-for-Land Verification, Housing Plot Allocation Review, Resettlement Colony Amenities.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:PAF Grievance Redressal & Litigation Support",
+      "kind": "programme",
+      "title": "PAF Grievance Redressal & Litigation Support",
+      "category": "Polavaram PIP",
+      "text": "Grievance camps and court support for project-affected families whose awards, pensions and colony works remain unresolved, including documentation for writ petitions. Components: PAF Grievance Camps, Award Objection Filing, Rehabilitation Commissioner Representations, Writ Petition Documentation.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Antyodaya: Matsya Mithra Women Federation",
+      "kind": "programme",
+      "title": "Antyodaya: Matsya Mithra Women Federation",
+      "category": "Women Cooperatives",
+      "text": "Empowering 3,500+ Yenadi tribal fisherwomen across 6 coastal mandals of Krishna District through sustainable fisheries, cold storage, and micro-credit. Components: Fisheries Cooperatives Management, Micro-Savings & SHG Linkages, Direct Market Fish Processing, Leadership & Gender Justice.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Yenadi House-Site Pattas & Identity Documents",
+      "kind": "programme",
+      "title": "Yenadi House-Site Pattas & Identity Documents",
+      "category": "Women Cooperatives",
+      "text": "Securing permanent house-site pattas and civil documentation for nomadic Yenadi hamlets in Machilipatnam, Bantumilli and Koduru mandals so families can claim ration, pension and school access. Components: House-Site Patta Filing, Aadhaar & Voter Enrolment, Ration Card Linking, Pension Scheme Access.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Micro-Savings & Revolving Credit Groups",
+      "kind": "programme",
+      "title": "Micro-Savings & Revolving Credit Groups",
+      "category": "Women Cooperatives",
+      "text": "Savings collectives run by Matsya Mithra members replace moneylender debt with internal revolving loans, steady repayments and financial literacy for coastal households. Components: Weekly Savings Meetings, Revolving Loan Corpus, Debt-Free Livelihood Support, Book-Keeping Training.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Estuarine Fishing Rights & Mangrove Care",
+      "kind": "programme",
+      "title": "Estuarine Fishing Rights & Mangrove Care",
+      "category": "Women Cooperatives",
+      "text": "Women-led committees in the Kruthivennu and Nagayalanka creeks protect artisanal fishing zones, ban destructive fine-mesh trawling and restore mangrove tidal barriers. Components: Artisanal Zone Protection, Mangrove Regeneration Drives, Breeding Season Norms, Cyclone Shelter Preparedness.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Child Interventions & Bare Acts",
+      "kind": "programme",
+      "title": "Child Interventions & Bare Acts",
+      "category": "Child Rights",
+      "text": "Ensuring every Adivasi child enjoys statutory protection under RTE, Juvenile Justice, and POCSO Acts, supporting bilingual education and nutrition. Components: Anti-Child Labor & Trafficking Vigilance, Mother-Tongue Bilingual Learning, Malnutrition Mitigation in Ashram Schools, Child Bare Acts Community Workshops.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Joyful Learning Centres in Agency Hamlets",
+      "kind": "programme",
+      "title": "Joyful Learning Centres in Agency Hamlets",
+      "category": "Child Rights",
+      "text": "Village learning centres that teach young children in Koya and Telugu mother tongues, with tribal folk content, play-based material and no corporal punishment. Components: Mother-Tongue Pedagogy, Folk & Cultural Curricula, Toy & Learning Material Kits, Volunteer Teacher Support.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Digital Classrooms & School Support Kits",
+      "kind": "programme",
+      "title": "Digital Classrooms & School Support Kits",
+      "category": "Child Rights",
+      "text": "School kits, uniforms, footwear and digital learning equipment supplied to Adivasi children in ashram and village schools to curb dropouts in the Godavari belt. Components: Uniform & Footwear Support, Digital Classroom Equipment, Exam & Career Guidance, Dropout Re-Enrolment Drives.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Child Protection & Nutrition Watch",
+      "kind": "programme",
+      "title": "Child Protection & Nutrition Watch",
+      "category": "Child Rights",
+      "text": "Community vigilance on child labour, trafficking and residential-school nutrition, with reporting pathways to Child Welfare Committees and district authorities. Components: Residential School Inspections, Nutrition & Meal Monitoring, Childline & CWC Linkages, POCSO Awareness Sessions.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Flood Relief Measures (2020 – 2023)",
+      "kind": "programme",
+      "title": "Flood Relief Measures (2020 – 2023)",
+      "category": "Disaster Relief",
+      "text": "Mobilizing emergency boat rescues, essential food provisions, sanitary supplies, and winter blankets for Godavari and Krishna river flood victims. Components: Boat Rescue & Evacuation Teams, Ration & Medical Kit Distribution, Post-Flood Sanitation & Water Purification, Housing Rehabilitation Assistance.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Godavari Gorge Rescue & Evacuation",
+      "kind": "programme",
+      "title": "Godavari Gorge Rescue & Evacuation",
+      "category": "Disaster Relief",
+      "text": "Volunteer boat teams reach isolated riverside habitations in the Kunavaram and Devipatnam gorge belt during monsoon inundation, moving families to relief camps. Components: Community Boat Teams, Isolated Hamlet Access, Relief Camp Setup, Livestock & Grain Shift Support.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Winter Blanket & Health Drives",
+      "kind": "programme",
+      "title": "Winter Blanket & Health Drives",
+      "category": "Disaster Relief",
+      "text": "Blankets, warm clothing and basic medical checks for exposed hill hamlets during Eastern Ghats winter, when cold stress hits children and elders hardest. Components: Blanket Distribution, Mobile Health Checks, Elder & Child Care Kits, Village Health Referrals.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Post-Flood Sanitation & Safe Water",
+      "kind": "programme",
+      "title": "Post-Flood Sanitation & Safe Water",
+      "category": "Disaster Relief",
+      "text": "Disinfection, clean drinking water units and latrine restoration after Godavari and Krishna floods, plus rebuilding support for damaged houses. Components: Water Purification Units, Village Disinfection Works, Damaged House Repair, Sanitary & Dignity Kits.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Community Solar & Green Energy",
+      "kind": "programme",
+      "title": "Community Solar & Green Energy",
+      "category": "Clean Energy",
+      "text": "Providing decentralized clean solar home lighting systems and solar street poles to remote, un-electrified hill habitations across the Eastern Ghats. Components: Solar Street Pole Installations, Portable Solar Lantern Distribution, Local Youth Technician Training, Zero-Carbon Rural Electrification.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Solar Home Lighting for Off-Grid Hamlets",
+      "kind": "programme",
+      "title": "Solar Home Lighting for Off-Grid Hamlets",
+      "category": "Clean Energy",
+      "text": "Decentralized solar lighting systems installed in Godavari gorge hamlets cut off from the conventional grid, replacing kerosene lamps in Adivasi households. Components: Household Solar Kits, Kerosene-Free Habitats, Installation Site Survey, Beneficiary Handover Training.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Solar Street Poles & Water Units",
+      "kind": "programme",
+      "title": "Solar Street Poles & Water Units",
+      "category": "Clean Energy",
+      "text": "Solar street lighting at village meeting points and schools improves night safety for women and children, alongside solar-assisted drinking water purification. Components: Village Lane Street Poles, School & Path Lighting, Solar Water Purification, Community Maintenance Corpus.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Tribal Youth Solar Technician Training",
+      "kind": "programme",
+      "title": "Tribal Youth Solar Technician Training",
+      "category": "Clean Energy",
+      "text": "Local Adivasi youth are trained to service solar kits, replace batteries and maintain micro-grids, keeping repair work and income inside the village. Components: Panel & Battery Servicing, Fault Diagnosis Modules, Village Maintenance Teams, Green Livelihood Linkages.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Indigenous Millets & Seed Banks",
+      "kind": "programme",
+      "title": "Indigenous Millets & Seed Banks",
+      "category": "Agriculture",
+      "text": "Reviving native heritage millet cultivation, bio-fertilizers, and community heirloom seed banks to guarantee food sovereignty and climate resilience. Components: Traditional Millet Cultivation, Community Indigenous Seed Banks, Chemical-Free Organic Farming, Soil & Water Conservation Works.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Community Heirloom Seed Banks",
+      "kind": "programme",
+      "title": "Community Heirloom Seed Banks",
+      "category": "Agriculture",
+      "text": "Farmer-managed seed stores preserve native millet, pulse and oilseed varieties, distributed before each sowing season without cost to small and marginal growers. Components: Variety Selection & Storage, Seed Exchange Festivals, Farmer Steward Committees, Germination & Viability Tests.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Natural Farming & Bio-Input Fields",
+      "kind": "programme",
+      "title": "Natural Farming & Bio-Input Fields",
+      "category": "Agriculture",
+      "text": "Chemical-free plot demonstrations using farmyard inputs, composting and intercropping, so degraded agency slopes regain soil health and lower input costs. Components: Bio-Fertilizer Preparation, Compost & Mulch Training, Intercropping Models, Pest Management Without Chemicals.",
+      "url": "/programs"
+    },
+    {
+      "id": "program:Water Conservation & Farm Ponds",
+      "kind": "programme",
+      "title": "Water Conservation & Farm Ponds",
+      "category": "Agriculture",
+      "text": "Contour bunding, percolation tanks and farm ponds dug with Gram Sabha labour to hold monsoon runoff for dry-season millet and vegetable cultivation. Components: Farm Pond Construction, Contour & Trench Binding, Drip & Mica Irrigation Support, Kitchen Garden Promotion.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Forest Rights",
+      "kind": "pillar",
+      "title": "Forest Rights",
+      "category": "Forest Rights",
+      "text": "Securing individual and community forest rights (RoFR 2006) for Adivasi families across the agency tracts.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Governance",
+      "kind": "pillar",
+      "title": "Governance",
+      "category": "Governance",
+      "text": "Empowering Gram Sabhas with sovereign self-governance powers under PESA Act 1996.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Polavaram PIP",
+      "kind": "pillar",
+      "title": "Polavaram PIP",
+      "category": "Polavaram PIP",
+      "text": "Defending the statutory rights of 1,05,000+ Project Displaced Families under the RFCTLARR Act 2013.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Women Cooperatives",
+      "kind": "pillar",
+      "title": "Women Cooperatives",
+      "category": "Women Cooperatives",
+      "text": "3,500+ Yenadi fisherwomen organized into the Matsya Mithra cooperative federation.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Child Rights",
+      "kind": "pillar",
+      "title": "Child Rights",
+      "category": "Child Rights",
+      "text": "Statutory protection, bilingual education, and nutrition for every Adivasi child.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Disaster Relief",
+      "kind": "pillar",
+      "title": "Disaster Relief",
+      "category": "Disaster Relief",
+      "text": "Emergency rescue, relief, and rehabilitation for Godavari and Krishna flood-affected communities.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Clean Energy",
+      "kind": "pillar",
+      "title": "Clean Energy",
+      "category": "Clean Energy",
+      "text": "Decentralized solar lighting for remote, un-electrified tribal habitations.",
+      "url": "/programs"
+    },
+    {
+      "id": "pillar:Agriculture",
+      "kind": "pillar",
+      "title": "Agriculture",
+      "category": "Agriculture",
+      "text": "Heritage millet cultivation, indigenous seed banks, and food sovereignty for Adivasi farmers.",
+      "url": "/programs"
+    },
+    {
+      "id": "page:home",
+      "kind": "archived page",
+      "title": "Home",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Home\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/home"
+    },
+    {
+      "id": "page:about",
+      "kind": "archived page",
+      "title": "About Us",
+      "category": "Community & Archive",
+      "text": "Archived site page \"About Us\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/about"
+    },
+    {
+      "id": "page:area-of-operation",
+      "kind": "archived page",
+      "title": "Area of Operation",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Area of Operation\" in the Community & Archive section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/area-of-operation"
+    },
+    {
+      "id": "page:annual-report",
+      "kind": "archived page",
+      "title": "Annual Report",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Annual Report\" in the Community & Archive section. Attached documents: ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/annual-report"
+    },
+    {
+      "id": "page:2023-2",
+      "kind": "archived page",
+      "title": "2023",
+      "category": "Community & Archive",
+      "text": "Archived site page \"2023\" in the Community & Archive section. Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/2023-2"
+    },
+    {
+      "id": "page:alert-policies",
+      "kind": "archived page",
+      "title": "ALERT Policies",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"ALERT Policies\" in the Governance & Institutional section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/alert-policies"
+    },
+    {
+      "id": "page:abstract-rofr",
+      "kind": "archived page",
+      "title": "Abstract RoFR",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"Abstract RoFR\" in the Forest Rights & LTR section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/abstract-rofr"
+    },
+    {
+      "id": "page:alert",
+      "kind": "archived page",
+      "title": "Alert",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Alert\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/alert"
+    },
+    {
+      "id": "page:achievements",
+      "kind": "archived page",
+      "title": "Achievements",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Achievements\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/achievements"
+    },
+    {
+      "id": "page:child-interventions",
+      "kind": "archived page",
+      "title": "Child Interventions",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Child Interventions\" in the Programs & Livelihood section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/child-interventions"
+    },
+    {
+      "id": "page:award-copies",
+      "kind": "archived page",
+      "title": "Award Copies",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Award Copies\" in the Community & Archive section. Attached documents: AWARD-COPIES-1.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/award-copies"
+    },
+    {
+      "id": "page:blankets-distribution-in-east-godavari",
+      "kind": "archived page",
+      "title": "Blankets Distribution in East Godavari",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Blankets Distribution in East Godavari\" in the Disaster Relief section. Page contents: 0 data table(s), 12 image(s).",
+      "url": "/page/blankets-distribution-in-east-godavari"
+    },
+    {
+      "id": "page:abstract",
+      "kind": "archived page",
+      "title": "ALERT R&R Grievances",
+      "category": "Community & Archive",
+      "text": "Archived site page \"ALERT R&R Grievances\" in the Community & Archive section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/abstract"
+    },
+    {
+      "id": "page:blog",
+      "kind": "archived page",
+      "title": "Blog",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Blog\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/blog"
+    },
+    {
+      "id": "page:bwg_gallery/eye-camp",
+      "kind": "archived page",
+      "title": "GALLERY",
+      "category": "Community & Archive",
+      "text": "Archived site page \"GALLERY\" in the Community & Archive section. Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/bwg_gallery/eye-camp"
+    },
+    {
+      "id": "page:cage-culture",
+      "kind": "archived page",
+      "title": "Cage Culture",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Cage Culture\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/cage-culture"
+    },
+    {
+      "id": "page:chronological-order-of-pip-progress",
+      "kind": "archived page",
+      "title": "Chronological order of PIP progress",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Chronological order of PIP progress\" in the Polavaram LA & R&R section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/chronological-order-of-pip-progress"
+    },
+    {
+      "id": "page:cases-rr-commissioner-office",
+      "kind": "archived page",
+      "title": "Cases @ R&R Commissioner Office",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Cases @ R&R Commissioner Office\" in the Polavaram LA & R&R section. Attached documents: RR-commissioner-office_Court-Cases.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/cases-rr-commissioner-office"
+    },
+    {
+      "id": "page:cases",
+      "kind": "archived page",
+      "title": "COURT CASES",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"COURT CASES\" in the Legal & Downloads section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/cases"
+    },
+    {
+      "id": "page:child-bare-acts",
+      "kind": "archived page",
+      "title": "Child Bare Acts",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Child Bare Acts\" in the Programs & Livelihood section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/child-bare-acts"
+    },
+    {
+      "id": "page:compendium-of-judgements-rofr",
+      "kind": "archived page",
+      "title": "Compendium of Judgements RoFR",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"Compendium of Judgements RoFR\" in the Forest Rights & LTR section. Attached documents: Compendum-of-Judgements-on-FRA-2007-2015.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/compendium-of-judgements-rofr"
+    },
+    {
+      "id": "page:core-values",
+      "kind": "archived page",
+      "title": "Core Values",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"Core Values\" in the Governance & Institutional section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/core-values"
+    },
+    {
+      "id": "page:contact",
+      "kind": "archived page",
+      "title": "Contact Us",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Contact Us\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/contact"
+    },
+    {
+      "id": "page:disposal-meanings",
+      "kind": "archived page",
+      "title": "Disposal Meanings",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Disposal Meanings\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/disposal-meanings"
+    },
+    {
+      "id": "page:downloads",
+      "kind": "archived page",
+      "title": "Downloads",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"Downloads\" in the Legal & Downloads section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/downloads"
+    },
+    {
+      "id": "page:faqs",
+      "kind": "archived page",
+      "title": "FAQ's",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"FAQ's\" in the Legal & Downloads section. Attached documents: FAQ-LARR.pdf, GREIVANCE-FAQ.pdf, MoTA_FAQ.pdf, NREGA_FAQ.pdf, MGNREGA_GUIDELINES.pdf, PMKSY_FAQ.pdf, FAQS-ON-NGO.pdf, RTI-Online-FAQs.pdf Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/faqs"
+    },
+    {
+      "id": "page:flood-relief-measures-2019",
+      "kind": "archived page",
+      "title": "Flood Relief Measures 2019",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Flood Relief Measures 2019\" in the Disaster Relief section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/flood-relief-measures-2019"
+    },
+    {
+      "id": "page:donate-now",
+      "kind": "archived page",
+      "title": "Donate Now",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Donate Now\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/donate-now"
+    },
+    {
+      "id": "page:flood-relief-measures-2020",
+      "kind": "archived page",
+      "title": "Flood Relief Measures 2020",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Flood Relief Measures 2020\" in the Disaster Relief section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/flood-relief-measures-2020"
+    },
+    {
+      "id": "page:dprs",
+      "kind": "archived page",
+      "title": "DPR's",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"DPR's\" in the Polavaram LA & R&R section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/dprs"
+    },
+    {
+      "id": "page:flood-relief-measures-2021-2",
+      "kind": "archived page",
+      "title": "Flood Relief Measures 2021",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Flood Relief Measures 2021\" in the Disaster Relief section. Page contents: 0 data table(s), 11 image(s).",
+      "url": "/page/flood-relief-measures-2021-2"
+    },
+    {
+      "id": "page:flood-relief-measures-2022",
+      "kind": "archived page",
+      "title": "Flood Relief Measures 2022",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Flood Relief Measures 2022\" in the Disaster Relief section. Page contents: 0 data table(s), 11 image(s).",
+      "url": "/page/flood-relief-measures-2022"
+    },
+    {
+      "id": "page:flood-relief-measures-2021",
+      "kind": "archived page",
+      "title": "Flood relief Measures 2021",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Flood relief Measures 2021\" in the Disaster Relief section. Page contents: 0 data table(s), 19 image(s).",
+      "url": "/page/flood-relief-measures-2021"
+    },
+    {
+      "id": "page:gos",
+      "kind": "archived page",
+      "title": "GO's",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"GO's\" in the Legal & Downloads section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/gos"
+    },
+    {
+      "id": "page:gallery-9",
+      "kind": "archived page",
+      "title": "GALLERY",
+      "category": "Community & Archive",
+      "text": "Archived site page \"GALLERY\" in the Community & Archive section. Page contents: 0 data table(s), 26 image(s).",
+      "url": "/page/gallery-9"
+    },
+    {
+      "id": "page:governing-body",
+      "kind": "archived page",
+      "title": "Governing Body",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"Governing Body\" in the Governance & Institutional section. Page contents: 0 data table(s), 13 image(s).",
+      "url": "/page/governing-body"
+    },
+    {
+      "id": "page:grievances",
+      "kind": "archived page",
+      "title": "GRIEVANCES",
+      "category": "Community & Archive",
+      "text": "Archived site page \"GRIEVANCES\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/grievances"
+    },
+    {
+      "id": "page:hello-world",
+      "kind": "archived page",
+      "title": "ALERT",
+      "category": "Community & Archive",
+      "text": "Archived site page \"ALERT\" in the Community & Archive section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/hello-world"
+    },
+    {
+      "id": "page:groceries-distribution-in-west-godavari",
+      "kind": "archived page",
+      "title": "Groceries Distribution in West Godavari",
+      "category": "Disaster Relief",
+      "text": "Archived site page \"Groceries Distribution in West Godavari\" in the Disaster Relief section. Page contents: 0 data table(s), 18 image(s).",
+      "url": "/page/groceries-distribution-in-west-godavari"
+    },
+    {
+      "id": "page:high-court-cases-eg",
+      "kind": "archived page",
+      "title": "High Court Cases EG",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"High Court Cases EG\" in the Legal & Downloads section. Attached documents: High-court-Cases_EG-1.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/high-court-cases-eg"
+    },
+    {
+      "id": "page:high-court-cases-wg",
+      "kind": "archived page",
+      "title": "High Court Cases WG",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"High Court Cases WG\" in the Legal & Downloads section. Attached documents: Pending-High-court-cases_WG.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/high-court-cases-wg"
+    },
+    {
+      "id": "page:housing-colonies-construction-status",
+      "kind": "archived page",
+      "title": "Housing colonies Construction status",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Housing colonies Construction status\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/housing-colonies-construction-status"
+    },
+    {
+      "id": "page:images",
+      "kind": "archived page",
+      "title": "Images",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Images\" in the Community & Archive section. Page contents: 0 data table(s), 53 image(s).",
+      "url": "/page/images"
+    },
+    {
+      "id": "page:indigenous-people",
+      "kind": "archived page",
+      "title": "Indigenous People",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Indigenous People\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/indigenous-people"
+    },
+    {
+      "id": "page:issues-of-pip",
+      "kind": "archived page",
+      "title": "Issues in implementing Polavaram Project",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Issues in implementing Polavaram Project\" in the Polavaram LA & R&R section. Attached documents: Seperated-Polavaram-issues-4.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/issues-of-pip"
+    },
+    {
+      "id": "page:la-act-2013-3-schdules",
+      "kind": "archived page",
+      "title": "LA ACT 2013 3 schedules",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"LA ACT 2013 3 schedules\" in the Polavaram LA & R&R section. Attached documents: schedule-1.pdf, schedule-2.pdf, schedules-3-1.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/la-act-2013-3-schdules"
+    },
+    {
+      "id": "page:la-flow-chart",
+      "kind": "archived page",
+      "title": "LA Flow chart",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"LA Flow chart\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/la-flow-chart"
+    },
+    {
+      "id": "page:la-rr",
+      "kind": "archived page",
+      "title": "LA & RR",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"LA & RR\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/la-rr"
+    },
+    {
+      "id": "page:la-rr-status",
+      "kind": "archived page",
+      "title": "LA & RR Status",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"LA & RR Status\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 8 image(s).",
+      "url": "/page/la-rr-status"
+    },
+    {
+      "id": "page:land-acquisition-la",
+      "kind": "archived page",
+      "title": "Land Acquisition (LA)",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Land Acquisition (LA)\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/land-acquisition-la"
+    },
+    {
+      "id": "page:larr-faqs",
+      "kind": "archived page",
+      "title": "LARR FAQs",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"LARR FAQs\" in the Polavaram LA & R&R section. Attached documents: FAQ-LARR.pdf, FAQ-LARR.pdf Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/larr-faqs"
+    },
+    {
+      "id": "page:legal-compliances",
+      "kind": "archived page",
+      "title": "Cases @ LA & RR Court",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"Cases @ LA & RR Court\" in the Legal & Downloads section. Attached documents: RTI-Data-LA-RR-Court.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/legal-compliances"
+    },
+    {
+      "id": "page:livehood-support",
+      "kind": "archived page",
+      "title": "Livehood Support",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Livehood Support\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/livehood-support"
+    },
+    {
+      "id": "page:livelihood-support",
+      "kind": "archived page",
+      "title": "Livelihood Support",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Livelihood Support\" in the Programs & Livelihood section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/livelihood-support"
+    },
+    {
+      "id": "page:ltr-disposal-meanings",
+      "kind": "archived page",
+      "title": "LTR Disposal Meanings",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"LTR Disposal Meanings\" in the Forest Rights & LTR section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/ltr-disposal-meanings"
+    },
+    {
+      "id": "page:legislative-acts-2",
+      "kind": "archived page",
+      "title": "Legislative Acts",
+      "category": "Legal & Downloads",
+      "text": "Archived site page \"Legislative Acts\" in the Legal & Downloads section. Page contents: 2 data table(s), 6 image(s).",
+      "url": "/page/legislative-acts-2"
+    },
+    {
+      "id": "page:ltr-eluru",
+      "kind": "archived page",
+      "title": "LTR ELURU",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"LTR ELURU\" in the Forest Rights & LTR section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/ltr-eluru"
+    },
+    {
+      "id": "page:ltr",
+      "kind": "archived page",
+      "title": "LTR",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"LTR\" in the Forest Rights & LTR section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/ltr"
+    },
+    {
+      "id": "page:organizational-profile",
+      "kind": "archived page",
+      "title": "Organizational Profile",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"Organizational Profile\" in the Governance & Institutional section. Attached documents: Organizational-Profile-of-ALERT.pdf Page contents: 0 data table(s), 10 image(s).",
+      "url": "/page/organizational-profile"
+    },
+    {
+      "id": "page:organogram",
+      "kind": "archived page",
+      "title": "Organogram",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"Organogram\" in the Governance & Institutional section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/organogram"
+    },
+    {
+      "id": "page:others",
+      "kind": "archived page",
+      "title": "Others",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Others\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/others"
+    },
+    {
+      "id": "page:polavaram-project-authority-minutes",
+      "kind": "archived page",
+      "title": "Polavaram Project Authority Minutes",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Polavaram Project Authority Minutes\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/polavaram-project-authority-minutes"
+    },
+    {
+      "id": "page:news-views",
+      "kind": "archived page",
+      "title": "NEWS & VIEWS",
+      "category": "Community & Archive",
+      "text": "Archived site page \"NEWS & VIEWS\" in the Community & Archive section. Page contents: 0 data table(s), 47 image(s).",
+      "url": "/page/news-views"
+    },
+    {
+      "id": "page:portfolio-2",
+      "kind": "archived page",
+      "title": "Portfolio",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Portfolio\" in the Community & Archive section. Page contents: 0 data table(s), 8 image(s).",
+      "url": "/page/portfolio-2"
+    },
+    {
+      "id": "page:pond-culture-2",
+      "kind": "archived page",
+      "title": "Pond Culture",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Pond Culture\" in the Programs & Livelihood section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/pond-culture-2"
+    },
+    {
+      "id": "page:portfolio-3",
+      "kind": "archived page",
+      "title": "PORTFOLIO",
+      "category": "Community & Archive",
+      "text": "Archived site page \"PORTFOLIO\" in the Community & Archive section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/portfolio-3"
+    },
+    {
+      "id": "page:rr-colony-layouts",
+      "kind": "archived page",
+      "title": "R&R Colony Layouts",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"R&R Colony Layouts\" in the Polavaram LA & R&R section. Page contents: 1 data table(s), 5 image(s).",
+      "url": "/page/rr-colony-layouts"
+    },
+    {
+      "id": "page:quick-links",
+      "kind": "archived page",
+      "title": "Quick LInks",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Quick LInks\" in the Community & Archive section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/quick-links"
+    },
+    {
+      "id": "page:rr-gos",
+      "kind": "archived page",
+      "title": "R&R G.Os",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"R&R G.Os\" in the Polavaram LA & R&R section. Page contents: 1 data table(s), 5 image(s).",
+      "url": "/page/rr-gos"
+    },
+    {
+      "id": "page:reasons-for-rejections",
+      "kind": "archived page",
+      "title": "Reasons for Rejections",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Reasons for Rejections\" in the Community & Archive section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/reasons-for-rejections"
+    },
+    {
+      "id": "page:pond-culture",
+      "kind": "archived page",
+      "title": "Pond Culture",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Pond Culture\" in the Programs & Livelihood section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/pond-culture"
+    },
+    {
+      "id": "page:review-meeting-presentations-on-pip",
+      "kind": "archived page",
+      "title": "Review meeting presentations on PIP",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Review meeting presentations on PIP\" in the Polavaram LA & R&R section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/review-meeting-presentations-on-pip"
+    },
+    {
+      "id": "page:rofr-g-os",
+      "kind": "archived page",
+      "title": "RoFR Rules-G.Os-Guidelines",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"RoFR Rules-G.Os-Guidelines\" in the Forest Rights & LTR section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/rofr-g-os"
+    },
+    {
+      "id": "page:rofr",
+      "kind": "archived page",
+      "title": "RoFR",
+      "category": "Forest Rights & LTR",
+      "text": "Archived site page \"RoFR\" in the Forest Rights & LTR section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/rofr"
+    },
+    {
+      "id": "page:reports",
+      "kind": "archived page",
+      "title": "Reports",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Reports\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/reports"
+    },
+    {
+      "id": "page:rr-g-os",
+      "kind": "archived page",
+      "title": "RR G.Os'",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"RR G.Os'\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/rr-g-os"
+    },
+    {
+      "id": "page:rr-grievance-full-forms",
+      "kind": "archived page",
+      "title": "R&R Grievance Full forms",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"R&R Grievance Full forms\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/rr-grievance-full-forms"
+    },
+    {
+      "id": "page:rr-grievances",
+      "kind": "archived page",
+      "title": "Land Rights Grievance",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Land Rights Grievance\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/rr-grievances"
+    },
+    {
+      "id": "page:rr-package",
+      "kind": "archived page",
+      "title": "RR Package",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"RR Package\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 8 image(s).",
+      "url": "/page/rr-package"
+    },
+    {
+      "id": "page:services",
+      "kind": "archived page",
+      "title": "Services",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Services\" in the Community & Archive section. Page contents: 0 data table(s), 9 image(s).",
+      "url": "/page/services"
+    },
+    {
+      "id": "page:slmc-meetings",
+      "kind": "archived page",
+      "title": "SLMC Meetings",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"SLMC Meetings\" in the Governance & Institutional section. Page contents: 1 data table(s), 6 image(s).",
+      "url": "/page/slmc-meetings"
+    },
+    {
+      "id": "page:solar-poles-erection",
+      "kind": "archived page",
+      "title": "Solar poles Erection",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Solar poles Erection\" in the Programs & Livelihood section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/solar-poles-erection"
+    },
+    {
+      "id": "page:strengthening-of-cbos",
+      "kind": "archived page",
+      "title": "strengthening of CBO's",
+      "category": "Community & Archive",
+      "text": "Archived site page \"strengthening of CBO's\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/strengthening-of-cbos"
+    },
+    {
+      "id": "page:submergence-area-map",
+      "kind": "archived page",
+      "title": "Submergence Area Map",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Submergence Area Map\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/submergence-area-map"
+    },
+    {
+      "id": "page:submergence-villages-abstract",
+      "kind": "archived page",
+      "title": "Submergence Villages Abstract",
+      "category": "Polavaram LA & R&R",
+      "text": "Archived site page \"Submergence Villages Abstract\" in the Polavaram LA & R&R section. Page contents: 0 data table(s), 7 image(s).",
+      "url": "/page/submergence-villages-abstract"
+    },
+    {
+      "id": "page:vision-mission-2",
+      "kind": "archived page",
+      "title": "Vision & Mission",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"Vision & Mission\" in the Governance & Institutional section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/vision-mission-2"
+    },
+    {
+      "id": "page:types-of-grievances",
+      "kind": "archived page",
+      "title": "Types of Grievances",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Types of Grievances\" in the Community & Archive section. Page contents: 0 data table(s), 9 image(s).",
+      "url": "/page/types-of-grievances"
+    },
+    {
+      "id": "page:youth-skill-development",
+      "kind": "archived page",
+      "title": "Youth Skill Development",
+      "category": "Programs & Livelihood",
+      "text": "Archived site page \"Youth Skill Development\" in the Programs & Livelihood section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/youth-skill-development"
+    },
+    {
+      "id": "page:videos",
+      "kind": "archived page",
+      "title": "Videos",
+      "category": "Community & Archive",
+      "text": "Archived site page \"Videos\" in the Community & Archive section. Page contents: 0 data table(s), 6 image(s).",
+      "url": "/page/videos"
+    },
+    {
+      "id": "page:vision-mission",
+      "kind": "archived page",
+      "title": "Vision & Mission",
+      "category": "Governance & Institutional",
+      "text": "Archived site page \"Vision & Mission\" in the Governance & Institutional section. Page contents: 0 data table(s), 9 image(s).",
+      "url": "/page/vision-mission"
+    },
+    {
+      "id": "download:/uploads/schedule-1.pdf",
+      "kind": "document",
+      "title": "RFCTLARR Act 2013 - Schedule 1 (Compensation)",
+      "category": "acts",
+      "text": "Central Bare Act • LA Act 2013. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/schedule-2.pdf",
+      "kind": "document",
+      "title": "RFCTLARR Act 2013 - Schedule 2 (R&R Entitlements)",
+      "category": "acts",
+      "text": "Central Bare Act • LA Act 2013. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/schedules-3-1.pdf",
+      "kind": "document",
+      "title": "RFCTLARR Act 2013 - Schedule 3 (25 Colony Amenities)",
+      "category": "acts",
+      "text": "Central Bare Act • LA Act 2013. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/Seperated-Polavaram-issues-4.pdf",
+      "kind": "document",
+      "title": "Key Critical Issues of Polavaram Project (PIP Brief)",
+      "category": "acts",
+      "text": "ALERT Legal & Policy Cell. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/High-court-Cases_EG-1.pdf",
+      "kind": "document",
+      "title": "High Court Cases: East Godavari District",
+      "category": "court",
+      "text": "High Court of Andhra Pradesh. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/Pending-High-court-cases_WG.pdf",
+      "kind": "document",
+      "title": "Pending High Court Cases: West Godavari District",
+      "category": "court",
+      "text": "High Court of Andhra Pradesh. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/RR-commissioner-office_Court-Cases.pdf",
+      "kind": "document",
+      "title": "Cases @ R&R Commissioner Office, Vijayawada",
+      "category": "court",
+      "text": "Commissioner of R&R, Polavaram. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/RTI-Data-LA-RR-Court.pdf",
+      "kind": "document",
+      "title": "RTI Disclosures: LA & RR Authority Court",
+      "category": "court",
+      "text": "RTI Official Disclosures. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/Compendum-of-Judgements-on-FRA-2007-2015.pdf",
+      "kind": "document",
+      "title": "Compendium of Judgements on Forest Rights Act (2007–2015)",
+      "category": "court",
+      "text": "ALERT Legal Cell Compilation. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/AWARD-COPIES-1.pdf",
+      "kind": "document",
+      "title": "Land Acquisition & Structural Award Copies",
+      "category": "court",
+      "text": "Official Revenue Awards. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/FAQ-LARR.pdf",
+      "kind": "document",
+      "title": "Frequently Asked Questions on LARR Act 2013",
+      "category": "faqs",
+      "text": "Government of India Guidelines. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/GREIVANCE-FAQ.pdf",
+      "kind": "document",
+      "title": "R&R Grievance Redressal FAQs & Procedures",
+      "category": "faqs",
+      "text": "ALERT Community Handbook. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/MoTA_FAQ.pdf",
+      "kind": "document",
+      "title": "Ministry of Tribal Affairs (MoTA) RoFR Guidelines FAQ",
+      "category": "faqs",
+      "text": "Ministry of Tribal Affairs. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/MGNREGA_GUIDELINES.pdf",
+      "kind": "document",
+      "title": "MGNREGA Operational Guidelines & Rights in Tribal Areas",
+      "category": "faqs",
+      "text": "Ministry of Rural Development. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/NREGA_FAQ.pdf",
+      "kind": "document",
+      "title": "MGNREGA Frequently Asked Questions",
+      "category": "faqs",
+      "text": "Rural Employment Cell. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/PMKSY_FAQ.pdf",
+      "kind": "document",
+      "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) FAQ",
+      "category": "faqs",
+      "text": "Ministry of Agriculture & Farmers Welfare. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/Organizational-Profile-of-ALERT.pdf",
+      "kind": "document",
+      "title": "Organizational Profile & 20-Year Report of ALERT",
+      "category": "reports",
+      "text": "ALERT Official Profile. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/ALERT_Annual-report-from-April-2020-to-March-2021-1.pdf",
+      "kind": "document",
+      "title": "ALERT Annual Report (April 2020 – March 2021)",
+      "category": "reports",
+      "text": "ALERT Audited Annual Report. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/FAQS-ON-NGO.pdf",
+      "kind": "document",
+      "title": "Governance & Statutory Compliances for NGOs in India",
+      "category": "faqs",
+      "text": "Legal Compliance Manual. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "download:/uploads/RTI-Online-FAQs.pdf",
+      "kind": "document",
+      "title": "RTI Online Filing & Tribal Advocacy Manual",
+      "category": "faqs",
+      "text": "Central Information Commission. Available as a download on the Downloads page.",
+      "url": "/downloads"
+    },
+    {
+      "id": "library:/uploads/High-court-Cases_EG-1.pdf",
+      "kind": "document",
+      "title": "High Court Cases: East Godavari District",
+      "category": "Court Record",
+      "text": "Record of writ petitions and court orders defending Adivasi forest rights and fair land valuation in East Godavari. Document type: Court Record. Size on the site: 134 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/Pending-High-court-cases_WG.pdf",
+      "kind": "document",
+      "title": "Pending High Court Cases: West Godavari District",
+      "category": "Court Record",
+      "text": "Compiled list of pending litigation regarding adult youth entitlement packages and resettlement colony allotments. Document type: Court Record. Size on the site: 189 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/RTI-Data-LA-RR-Court.pdf",
+      "kind": "document",
+      "title": "RTI Disclosures: LA & RR Authority Court",
+      "category": "RTI Disclosure",
+      "text": "Comprehensive RTI records regarding land acquisition award enquiries and compensation disbursement tracking. Document type: RTI Disclosure. Size on the site: 116 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/Compendum-of-Judgements-on-FRA-2007-2015.pdf",
+      "kind": "document",
+      "title": "Compendium of Judgements on Forest Rights Act (2007–2015)",
+      "category": "Judgements",
+      "text": "Landmark High Court and Supreme Court judgements affirming tribal land tenure under the Forest Rights Act 2006. Document type: Judgements. Size on the site: 4.8 MB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/AWARD-COPIES-1.pdf",
+      "kind": "document",
+      "title": "Land Acquisition & Structural Award Copies",
+      "category": "Award Record",
+      "text": "Certified award copies issued by Special Land Acquisition Officers (SLAOs) in the Polavaram submergence basin. Document type: Award Record. Size on the site: 846 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/GREIVANCE-FAQ.pdf",
+      "kind": "document",
+      "title": "R&R Grievance Redressal FAQs & Procedures",
+      "category": "Grievance",
+      "text": "Practical handbook on lodging grievances, appeal procedures before the SDC, and entitlement claims under Polavaram. Document type: Grievance. Size on the site: 400 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/MoTA_FAQ.pdf",
+      "kind": "document",
+      "title": "Ministry of Tribal Affairs (MoTA) RoFR Guidelines FAQ",
+      "category": "Ministry Guidance",
+      "text": "Official clarifications on Individual Forest Rights (IFR), Community Rights (CFR) and Gram Sabha powers. Document type: Ministry Guidance. Size on the site: 249 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/RTI-Online-FAQs.pdf",
+      "kind": "document",
+      "title": "RTI Online Filing & Tribal Advocacy Manual",
+      "category": "RTI Guidance",
+      "text": "Guide to filing online Right to Information petitions to access project documents, DPRs and land award records. Document type: RTI Guidance. Size on the site: 131 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/MGNREGA_GUIDELINES.pdf",
+      "kind": "document",
+      "title": "MGNREGA Operational Guidelines & Rights in Tribal Areas",
+      "category": "Scheme Guideline",
+      "text": "Statutory operational guidelines for the employment guarantee, watershed development and land levelling in Scheduled Areas. Document type: Scheme Guideline. Size on the site: 2.4 MB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "library:/uploads/PMKSY_FAQ.pdf",
+      "kind": "document",
+      "title": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) FAQ",
+      "category": "Scheme FAQ",
+      "text": "Guidelines on micro-irrigation subsidies, check dams and water harvesting structures for smallholder farmers. Document type: Scheme FAQ. Size on the site: 380 KB.",
+      "url": "/la-rr#archive"
+    },
+    {
+      "id": "faq:0",
+      "kind": "faq",
+      "title": "What is ALERT and when was it founded?",
+      "category": "FAQ",
+      "text": "ALERT (Association for Land and Livelihood) was founded in 2004 (Registration No. 307/2004) under the Societies Registration Act. Headquartered in Vijayawada, Andhra Pradesh, ALERT is dedicated to empowering Adivasis and marginalized coastal communities in the Fifth Scheduled areas through rights-based development, legal aid, and environmental sustainability.",
+      "url": "/faqs"
+    },
+    {
+      "id": "faq:1",
+      "kind": "faq",
+      "title": "What is the Forest Rights Act (RoFR) and how does ALERT assist?",
+      "category": "FAQ",
+      "text": "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006 recognizes the pre-existing rights of forest-dwelling tribal communities over ancestral lands and minor forest produce. ALERT assists Gram Sabhas with field mapping, gathering revenue evidence, and submitting Individual Forest Rights (IFR) and Community Forest Rights (CFR) claims.",
+      "url": "/faqs"
+    },
+    {
+      "id": "faq:2",
+      "kind": "faq",
+      "title": "How does ALERT support families displaced by the Polavaram Irrigation Project (PIP)?",
+      "category": "FAQ",
+      "text": "ALERT tracks land valuation awards, coordinates legal petitions before the High Court of AP and the R&R Commissioner Office, monitors housing colony amenities (drinking water, schooling, roads), and operates a community grievance redressal cell to ensure every displaced family and adult youth receives their statutory package.",
+      "url": "/faqs"
+    },
+    {
+      "id": "faq:3",
+      "kind": "faq",
+      "title": "What is the role of PESA in tribal self-governance?",
+      "category": "FAQ",
+      "text": "The Provisions of the Panchayats (Extension to Scheduled Areas) Act (PESA), 1996 vests mandatory authority in the village Gram Sabha. In Schedule V areas, no land acquisition, minor water body alienation, or mining lease can proceed without prior consultation and resolution by the Gram Sabha. ALERT trains tribal leaders and Gram Sabha members in exercising these statutory powers.",
+      "url": "/faqs"
+    },
+    {
+      "id": "faq:4",
+      "kind": "faq",
+      "title": "Are donations to ALERT eligible for income tax exemption?",
+      "category": "FAQ",
+      "text": "Yes. ALERT is registered under Section 12A and Section 80G of the Indian Income Tax Act. Donors receive a formal 80G tax receipt allowing them to claim up to a 50% deduction on their taxable income as permitted under Indian tax laws.",
+      "url": "/faqs"
+    },
+    {
+      "id": "faq:5",
+      "kind": "faq",
+      "title": "How can individuals or organizations volunteer or collaborate with ALERT?",
+      "category": "FAQ",
+      "text": "We welcome interns, legal researchers, environmental scientists, and volunteers. Opportunities include field research in tribal mandals, documentation of oral histories, child education initiatives, and disaster relief logistics. You can reach out through our Contact page or write directly to director@alertngo.in.",
+      "url": "/faqs"
+    },
+    {
+      "id": "faq:6",
+      "kind": "faq",
+      "title": "How does ALERT fund its community initiatives and ensure transparency?",
+      "category": "FAQ",
+      "text": "ALERT is funded through individual philanthropic contributions, institutional donor grants, and corporate CSR partnerships. Our accounts are audited annually by statutory chartered accountants, filed with the Registrar of Societies, and submitted under FCRA guidelines to ensure absolute financial integrity.",
+      "url": "/faqs"
+    },
+    {
+      "id": "news:Godavari Flood Relief 2023: Emergency Rations & Medical Kits to 4,200 Displaced Families",
+      "kind": "news",
+      "title": "Godavari Flood Relief 2023: Emergency Rations & Medical Kits to 4,200 Displaced Families",
+      "category": "Flood Relief 2023",
+      "text": "ALERT mobilized field teams across flood-hit habitations of Alluri Sitharama Raju and Eluru districts, deploying mechanized boats to supply rice, lentils, drinking water, and sanitary kits to cut-off Adivasi hamlets. Reported September 2023.",
+      "url": "/news"
+    },
+    {
+      "id": "news:Flood Relief Operations 2022: Multi-Mandal Relief Mission Across Submergence Habitations",
+      "kind": "news",
+      "title": "Flood Relief Operations 2022: Multi-Mandal Relief Mission Across Submergence Habitations",
+      "category": "Flood Relief 2022",
+      "text": "Field caseworkers distributed comprehensive ration packets and hygiene supplies to families displaced by heavy Godavari river spillage in Kunavaram, VR Puram, and Chintoor mandals. Reported October 2022.",
+      "url": "/news"
+    },
+    {
+      "id": "news:Flood Relief Operations 2021: Rescue Boat Deployment & Essential Services in Hill Tracts",
+      "kind": "news",
+      "title": "Flood Relief Operations 2021: Rescue Boat Deployment & Essential Services in Hill Tracts",
+      "category": "Flood Relief 2021",
+      "text": "ALERT established temporary relief distribution bases in remote hill areas, providing direct sustenance to vulnerable tribal children, nursing mothers, and elderly persons. Reported August 2021.",
+      "url": "/news"
+    },
+    {
+      "id": "news:Blankets & Winter Care Distribution in East Godavari Hill Hamlets",
+      "kind": "news",
+      "title": "Blankets & Winter Care Distribution in East Godavari Hill Hamlets",
+      "category": "Blankets Drive",
+      "text": "Over 3,000 thermal wool blankets and basic healthcare supplies were handed over directly to remote Konda Reddi tribal households facing harsh winter temperatures. Reported October 2020.",
+      "url": "/news"
+    },
+    {
+      "id": "news:Essential Groceries Distribution Campaign in West Godavari Submergence Villages",
+      "kind": "news",
+      "title": "Essential Groceries Distribution Campaign in West Godavari Submergence Villages",
+      "category": "COVID & Relief",
+      "text": "Nutritional hampers and clean drinking water containers were distributed to forest hamlets cut off from road connectivity during peak monsoon inundations. Reported July 2020.",
+      "url": "/news"
+    },
+    {
+      "id": "stats:impact",
+      "kind": "statistics",
+      "title": "ALERT published impact figures",
+      "category": "Impact",
+      "text": "Acres Forest Rights Secured: 15000+; Adivasi Families Supported: 25000+; Submergence Villages Monitored: 371; Off-Grid Solar Hamlets Energized: 75+; Yenadi Women in Cooperatives: 3500+; Families Emergency Relieved: 4200+. These are the figures published on the site.",
+      "url": "/"
+    },
+    {
+      "id": "core:identity",
+      "kind": "organisation",
+      "title": "About ALERT",
+      "category": "Organisation",
+      "text": "ALERT — Association for Land Ecosystem Rights & Tribal Heritage. Founded 2004. Registered Society, Registration No. 307/2004 under the Societies Registration Act. Section 12A and Section 80G registered (80G receipts issued for donations). FCRA registered for receiving foreign contributions. Rights-based development for Adivasi and marginalized coastal communities: land and forest rights, rehabilitation entitlements, self-governance, livelihoods and child rights.",
+      "url": "/about"
+    },
+    {
+      "id": "core:contact",
+      "kind": "contact",
+      "title": "ALERT office, phone and email",
+      "category": "Contact",
+      "text": "Head office: Door No. 40-9/1-16, Sai Nagar, Near Benz Circle, Vijayawada - 520010, Andhra Pradesh, India. Phone +91 866 2482345. Mobile / WhatsApp +91 94401 82940. Email contact@alertngo.in or director@alertngo.in (also alertap.in@gmail.com). Founder Director: Y. L. J. B. Jayaraj (Founder Director). Website https://alertngo.in.",
+      "url": "/contact"
+    },
+    {
+      "id": "core:wings",
+      "kind": "structure",
+      "title": "The four wings of ALERT's work",
+      "category": "Programmes",
+      "text": "Forest Rights & Land: RoFR 2006 (IFR/CFR) claims, PESA self-governance, Andhra Pradesh Land Transfer Regulation Act 1 of 1970 restitution of alienated tribal land. Polavaram Rehabilitation: Land Acquisition & R&R entitlements for Project Affected Families of the Polavaram Irrigation Project under the RFCTLARR Act 2013. Livelihoods & Women: Antyodaya Matsya Mithra fisherwomen federation, micro-savings, indigenous millets and seed banks. Child Rights & Education: Bilingual education, nutrition, protection and statutory entitlements for Adivasi children.",
+      "url": "/programs"
+    },
+    {
+      "id": "core:region",
+      "kind": "geography",
+      "title": "Where ALERT works",
+      "category": "Coverage",
+      "text": "Fifth Schedule / tribal tracts of Andhra Pradesh — Alluri Sitharama Raju and Parvathipuram Manyam districts, Rampachodavaram and Chinturu ITDAs, K.R. Puram ITDA belt, and the Krishna coastal belt.",
+      "url": "/about"
+    },
+    {
+      "id": "core:routes",
+      "kind": "navigation",
+      "title": "Where to find each part of this website",
+      "category": "Site map",
+      "text": "/ — Home — hero, impact figures and programme snapshot /about — About ALERT — single scrolling page: who we are, approach, reach /programs — Our Work — every programme with details, filterable by category /stories — Stories — field stories from the teams /la-rr — Land & Rights (Polavaram) — Sections 01-07: project overview, Land Acquisition Act 2013, R&R package, court cases, submergence habitations, RoFR & LTR, document archive /la-rr#overview — Section 01 Polavaram Project Overview /la-rr#land_acquisition — Section 02 Land Acquisition Act 2013 /la-rr#rr_package — Section 03 R&R Package & Colony Housing /la-rr#court_cases — Section 04 Court Cases & Legal Cell /la-rr#submergence — Section 05 Submergence Habitations & Maps /la-rr#rofr_ltr — Section 06 RoFR & LTR Disposals /la-rr#archive — Section 07 Polavaram Document Archive — catalogued pages and the statutory PDF shelf /all-pages?category=Polavaram%20LA%20%26%20R%26R — Full listing of every Polavaram LA & R&R page in the document archive /downloads — Downloads — bare acts, court records, FAQs and reports /news — News From The Field /gallery — Gallery — photographs and field videos /careers — Careers & internships — openings and how to apply /partner — Partner With Us — CSR, grants, foundation and in-kind partnerships /donate — Donate — 80G supported giving /grievances — Grievance Redressal /faqs — Frequently Asked Questions /contact — Contact — head office, phone, email and enquiry form.",
+      "url": "/"
+    },
+    {
+      "id": "core:larar",
+      "kind": "navigation",
+      "title": "Land & Rights (Polavaram) page structure",
+      "category": "Site map",
+      "text": "Section 01 — Polavaram Project Overview (#overview): The Polavaram (Dr. Narula Appa Rao) multipurpose project on the Godavari: extent, purpose and the communities it affects. Section 02 — Land Acquisition Act 2013 (#land_acquisition): RFCTLARR Act 2013 entitlements — notification, survey, social impact assessment, consent, compensation and rehabilitation duties. Section 03 — R&R Package & Colony Housing (#rr_package): House sites, colony amenities, land-for-land, adult youth packages and the entitlements ALERT tracks for displaced families. Section 04 — Court Cases & Legal Cell (#court_cases): High Court writs, interim directions and the legal cell supporting project affected families. Section 05 — Submergence Habitations & Maps (#submergence): Submergence-area villages and habitations with maps and tabulated field data. Section 06 — RoFR & LTR Disposals (#rofr_ltr): Forest Rights Act and Land Transfer Regulation disposals and restitutions. Section 07 — Polavaram Document Archive (#archive): Every catalogued Polavaram page grouped by document type, with the statutory and reference PDF shelf. Full listing: /all-pages?category=Polavaram%20LA%20%26%20R%26R.",
+      "url": "/la-rr"
+    },
+    {
+      "id": "core:donate",
+      "kind": "support",
+      "title": "Donating and partnering with ALERT",
+      "category": "Support",
+      "text": "Donations are 80G tax-exempt and receipted. Institutional, CSR, FCRA grant and in-kind partnerships are handled on the Partner With Us page. Careers and internships are listed on the Careers page; applications go to contact@alertngo.in.",
+      "url": "/donate"
+    }
+  ]
+}
